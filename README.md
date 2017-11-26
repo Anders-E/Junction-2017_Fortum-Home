@@ -40,13 +40,17 @@ If the lights have been turned on and you are spending leisure time with the tv,
 
 ## Benefits (Why)
 
-1. Simplicity
-...The data is readily available.
-...The solution requires no additional installations beyond what is planned for Fortums customers.
-...The app-extensions are simple and targets all of Fortums customers.
+#### Simplicity
 
-2. Usefullness
-...Having an additional measure of control
+- The data is readily available.
+
+- The solution requires no additional installations beyond what is planned for Fortums customers.
+
+- The app-extensions are simple and targets all of Fortums customers.
+
+#### Usefullness
+
+- Having an additional measure of control
 
 ## Technological Solution
 
@@ -75,8 +79,6 @@ After smoothing the data, it's just a matter of finding a suitable threshold for
 ![asleep](https://github.com/Anders-E/Junction-2017_Fortum-Home/blob/master/prototype-screens/cabin.png?raw=true "Asleep")
 
 ## Ideas For Further Development
-
-Status changes happening while you are absent results in a push notification (*"Your home is active"*), allowing the owner to know when their children come home from school or when the relatives arrives in the winter cabin.
 
 Prolonged usage of a power-intensive appliance causes a push notification of reminding you of its use (*"Are you making slow cooked beef tenderloin or is it time to turn off the oven?"*)
 
