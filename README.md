@@ -8,17 +8,17 @@
 
 ## Introduction
 
-With the introduction of technology such as Google Home and the Apple HomeKit line of products, the demand for home automation is growing ever larger.
+With the introduction of technology such as Google Home and the Apple HomeKit line of products, the demand for smart home services is growing ever larger.
 
-This project aims to bring an entry level home automation feature to Fortum customers without any additional hardware requirements.
+This project aims to bring an entry level smart home feature to Fortum customers without any additional hardware requirements.
 
 ## Problem Statement
 
-Home Automation is hotter than ever, but the step towards an automated home require both expensive hardware purchases as well as tiresome installation.   
+What new useful services can be created utilizing already existing data and that is applicable for Fortums large customer base?   
 
 ## Fortum Home
 
-Enter Fortum Home. Based on the already existing Fortum app, it gives the customer an entry level home automation feature without any expense from the customer, be it time or money.
+Enter Status Homes. Based on the already existing Fortum app, it gives the customer an entry level smart home feature without any expense from the customer, be it time or money.
 
 The main feature of the Fortum Home app is...
 
@@ -33,7 +33,7 @@ Wether it be a Finnish *mökki*, a Swedish *sommarstuga*, or Russian *dacha*, th
 All already existing features of the Fortum app such as this month power usage, current price of electricity, etc. are of course maintained.
 
 #### Asleep
-When next to no power-related activity is taking place, apart from basic heating, your home status on the app will be showing the *Asleep* status.
+When next to no power-related activity is taking place, apart from indoor climate being maintained, your home status on the app will be showing the *Asleep* status.
 
 #### Active
 If the lights have been turned on and you are spending leisure time with the tv, radio or computer, resulting in a slight uptick in your power consumption, your home will be flagged *Active*.
