@@ -62,12 +62,22 @@ The way we did it was to first of all smooth the data. The raw data can be very 
 
 After smoothing the data, it's just a matter of finding a suitable threshold for what's considered active vs asleep for a specific household. We used the median value which worked out very well for the household of the data we acquired. For actual deployment of this application, further research will have to be carried out to determine a good way to determine a threshold. We believe very simple machine learning could be used to determine this very effectively.
 
-***Smart home notifications***
+## Screenshots
+
+#### Notification
+
+[notification active](https://github.com/Anders-E/Junction2017_Fortum/blob/master/prototype-screens/notification_active.png?raw=true "Notification Awake")
+
+#### Active
+[active](https://github.com/Anders-E/Junction2017_Fortum/blob/master/prototype-screens/home.png?raw=true "Active")
+
+#### Asleep
+[asleep](https://github.com/Anders-E/Junction2017_Fortum/blob/master/prototype-screens/cabin.png?raw=true "Asleep")
+
+## Ideas For Further Development
+
 Status changes happening while you are absent results in a push notification (*"Your home is active"*), allowing the owner to know when their children come home from school or when the relatives arrives in the winter cabin.
 
 Prolonged usage of a power-intensive appliance causes a push notification of reminding you of its use (*"Are you making slow cooked beef tenderloin or is it time to turn off the oven?"*)
 
 Building upon the idea of certain appliances power usage being destinct a home-owner could personalise his/her house-profile by labeling the tycally intensive appliances (Oven, sauna, iron, dishwasher). This would enable reminders for things that need to be shut off or allow exclution of things that might be safe leaving on when leaving the house (dishwasher washing machine).
-
-homes solutions. (Enable smarthome mode => push notification whenever a large power consumption is initatied, asking which kind of appliance was activated)
-
