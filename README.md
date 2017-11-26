@@ -48,9 +48,9 @@ If the lights have been turned on and you are spending leisure time with the tv,
 2. Usefullness
 ...Having an additional measure of control
 
+### Technological Solution
 
-
-
+With access to live data of the houses energy consumption, the actual implementation is actually simple and easy to deploy to anyone with the correct electricity meter.
 
 ***Smart home notifications***
 Status changes happening while you are absent results in a push notification (*"Your home is active"*), allowing the owner to know when their children come home from school or when the relatives arrives in the winter cabin.
