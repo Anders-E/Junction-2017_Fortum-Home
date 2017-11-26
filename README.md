@@ -1,4 +1,4 @@
-# Junction2017 - Fortum Challenge - Smart Electricity
+# Fortum Home - A Project for Junction 2017
 
 #### A project by:
 
