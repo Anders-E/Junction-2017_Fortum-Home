@@ -76,8 +76,6 @@ After smoothing the data, it's just a matter of finding a suitable threshold for
 
 ## Ideas For Further Development
 
-Status changes happening while you are absent results in a push notification (*"Your home is active"*), allowing the owner to know when their children come home from school or when the relatives arrives in the winter cabin.
-
 Prolonged usage of a power-intensive appliance causes a push notification of reminding you of its use (*"Are you making slow cooked beef tenderloin or is it time to turn off the oven?"*)
 
 Building upon the idea of certain appliances power usage being destinct a home-owner could personalise his/her house-profile by labeling the tycally intensive appliances (Oven, sauna, iron, dishwasher). This would enable reminders for things that need to be shut off or allow exclution of things that might be safe leaving on when leaving the house (dishwasher washing machine).
