@@ -9,7 +9,7 @@
 ### Challenge Description:
 Can new services be developed utilizing the power consumption data your energy company regularly measures?
 
-#### Our ideas for new services: 
+#### Our idea: 
 
 ‘Home Status’ & ‘Smart home notifications’ app-extension   
 
