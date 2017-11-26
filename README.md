@@ -18,7 +18,7 @@ What new useful services can be created utilizing already existing data and that
 
 ## Fortum Home
 
-Enter Status Homes. Based on the already existing Fortum app, it gives the customer an entry level smart home feature without any expense from the customer, be it time or money.
+Enter Home Statuses. Based on the already existing Fortum app, it gives the customer an entry level smart home feature without any expense from the customer, be it time or money.
 
 The main feature of the Fortum Home app is...
 
