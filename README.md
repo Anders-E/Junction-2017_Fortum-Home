@@ -19,11 +19,11 @@ What new useful services can be created utilizing already existing data, that ar
 
 ## Notifications
 
-Enter Home Statuses. An exciting addition to the Fortum app, giving the customer an entry level smart home feature without any expense from the customer, be it time or money.
+Enter Home Statuses. An exciting addition to the Fortum app, giving the customer an entry level smart home feature without any additional expense.
 
 The main feature of the Fortum Home app is...
 
-### Home Status - In Real Time 
+### continually updated Home Statuses
 
 The Fortum app already allows the user to see their current energy use. This information, however interesting, isn't used by the average customer. We propose a simplified version of the information targeting the customer; Is your home sleeping or active?
 
