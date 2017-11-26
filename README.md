@@ -66,13 +66,13 @@ After smoothing the data, it's just a matter of finding a suitable threshold for
 
 #### Notification
 
-[notification active](https://github.com/Anders-E/Junction2017_Fortum/blob/master/prototype-screens/notification_active.png?raw=true "Notification Awake")
+![notification active](https://github.com/Anders-E/Junction2017_Fortum/blob/master/prototype-screens/notification_active.png?raw=true "Notification Awake")
 
 #### Active
-[active](https://github.com/Anders-E/Junction2017_Fortum/blob/master/prototype-screens/home.png?raw=true "Active")
+![active](https://github.com/Anders-E/Junction2017_Fortum/blob/master/prototype-screens/home.png?raw=true "Active")
 
 #### Asleep
-[asleep](https://github.com/Anders-E/Junction2017_Fortum/blob/master/prototype-screens/cabin.png?raw=true "Asleep")
+![asleep](https://github.com/Anders-E/Junction2017_Fortum/blob/master/prototype-screens/cabin.png?raw=true "Asleep")
 
 ## Ideas For Further Development
 
