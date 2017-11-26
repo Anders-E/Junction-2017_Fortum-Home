@@ -22,7 +22,7 @@ Enter Fortum Home. Based on the already existing Fortum app, it gives the custom
 
 The main feature of the Fortum Home app is...
 
-### Real Time Home Status
+### Home Status - In Real Time 
 
 The Fortum Home app gives the user real time updates of the power usage straight from their home.
 
@@ -50,7 +50,7 @@ If the lights have been turned on and you are spending leisure time with the tv,
 
 #### Usefullness
 
-- Having an additional measure of control
+- Having an additional measure of control.
 
 ## Technological Solution
 
@@ -80,6 +80,6 @@ After smoothing the data, it's just a matter of finding a suitable threshold for
 
 ## Ideas For Further Development
 
-Prolonged usage of a power-intensive appliance causes a push notification of reminding you of its use (*"Are you making slow cooked beef tenderloin or is it time to turn off the oven?"*)
-
 Building upon the idea of certain appliances power usage being destinct a home-owner could personalise his/her house-profile by labeling the tycally intensive appliances (Oven, sauna, iron, dishwasher). This would enable reminders for things that need to be shut off or allow exclution of things that might be safe leaving on when leaving the house (dishwasher washing machine).
+
+Prolonged usage of a power-intensive appliance causes a push notification of reminding you of its use (*"Are you making slow cooked beef tenderloin or is it time to turn off the oven?"*)
