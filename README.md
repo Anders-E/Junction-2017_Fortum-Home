@@ -38,7 +38,7 @@ When next to no power-related activity is taking place, apart from basic heating
 #### Active
 If the lights have been turned on and you are spending leisure time with the tv, radio or computer, resulting in a slight uptick in your power consumption, your home will be flagged *Active*.
 
-### Benefits (Why)
+## Benefits (Why)
 
 1. Simplicity
 ...The data is readily available.
@@ -48,9 +48,19 @@ If the lights have been turned on and you are spending leisure time with the tv,
 2. Usefullness
 ...Having an additional measure of control
 
-### Technological Solution
+## Technological Solution
 
 With access to live data of the houses energy consumption, the actual implementation is actually simple and easy to deploy to anyone with the correct electricity meter.
+
+The way we did it was to first of all smooth the data. The raw data can be very erratic due to certain electrical utilities in a household (heating etc.). Smoothing in this case means calculating the arithmetic mean based on the
+
+#### Raw Data
+![raw data](https://github.com/Anders-E/Junction2017_Fortum/blob/master/data/plots/10-01-11.png?raw=true "Raw Data")
+
+#### Smoothed Data
+![smoothed data](https://github.com/Anders-E/Junction2017_Fortum/blob/master/data/plots/10-01-11-smooth-60.png?raw=true "Smoothed Data")
+
+After smoothing the data, it's just a matter of finding a suitable threshold for what's considered active vs asleep for a specific household. We used the median value which worked out very well for the household of the data we acquired. For actual deployment of this application, further research will have to be carried out to determine a good way to determine a threshold. We believe very simple machine learning could be used to determine this very effectively.
 
 ***Smart home notifications***
 Status changes happening while you are absent results in a push notification (*"Your home is active"*), allowing the owner to know when their children come home from school or when the relatives arrives in the winter cabin.
