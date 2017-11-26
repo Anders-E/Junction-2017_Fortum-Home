@@ -1,4 +1,4 @@
-# Fortum Home - A Project for Junction 2017
+# Fortum Home - Smart Electricity
 
 #### A project by:
 
