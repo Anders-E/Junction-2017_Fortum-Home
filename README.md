@@ -27,8 +27,16 @@ Status changes happening while you are absent results in a push notification (*"
 
 Prolonged usage of a power-intensive appliance causes a push notification of reminding you of its use (*"Are you making slow cooked beef tenderloin or is it time to turn off the oven?"*)
 
-Building upon the idea of certain appliances power usage being destinct a home-owner could personalise his/her house-profile by labeling the tycally intensive appliances (Oven, sauna, iron, dishwasher). This would enable reminders for things that need to be shut off or allow the exclude the dishwasher to get a clearer picture of what    
+Building upon the idea of certain appliances power usage being destinct a home-owner could personalise his/her house-profile by labeling the tycally intensive appliances (Oven, sauna, iron, dishwasher). This would enable reminders for things that need to be shut off or allow exclution of things that might be safe leaving on when leaving the house (dishwasher washing machine).
 
-Data collection -> Help us learn about power consumption while working towards smart home solutions, what powerconsuming appliance did you just turn on? 
- 
+### Benefits (Why)
+
+1. Simplicity
+...The data is readily available.
+...The solution requires no additional installations beyond what is planned for Fortums customers.
+...The app-extensions are simple and targets all of Fortums customers.
+
+2. Usefullness
+...Having an additional measure of control
+
 homes solutions. (Enable smarthome mode => push notification whenever a large power consumption is initatied, asking which kind of appliance was activated)
