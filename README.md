@@ -80,6 +80,6 @@ After smoothing the data, it's just a matter of finding a suitable threshold for
 
 ## Ideas For Further Development
 
-Building upon the idea of certain appliances power usage being destinct a home-owner could personalise his/her house-profile by labeling the tycally intensive appliances (Oven, sauna, iron, dishwasher). This would enable reminders for things that need to be shut off or allow exclution of things that might be safe leaving on when leaving the house (dishwasher washing machine).
+Building upon the idea of certain appliances having a destinct power profile, a customer could tailor his/her home profile by labeling the typically intensive appliances (Oven, sauna, shirt iron, dishwasher). This would enable reminders for things that need to be shut off or allow exclution of things that can safely be left unattended when leaving the house (dishwasher, washing machine).
 
 Prolonged usage of a power-intensive appliance causes a push notification of reminding you of its use (*"Are you making slow cooked beef tenderloin or is it time to turn off the oven?"*)
