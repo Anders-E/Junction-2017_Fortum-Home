@@ -66,6 +66,9 @@ The way we did it was to first of all smooth the data. The raw data can be very 
 
 After smoothing the data, it's just a matter of finding a suitable threshold for what's considered active vs asleep for a specific household. We used the median value which worked out very well for the household of the data we acquired. For actual deployment of this application, further research will have to be carried out to determine a good way to determine a threshold. We believe very simple machine learning could be used to determine this very effectively.
 
+#### Smoothed Data With Threshold
+![smoothed data thresh](https://github.com/Anders-E/Junction-2017_Fortum-Home/blob/master/data/plots/10-01-11-smooth-60-thresh.png?raw=true "Smoothed Data With Threshold")
+
 ## Screenshots
 
 #### Notification
