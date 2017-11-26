@@ -23,7 +23,7 @@ Enter Husa, an addition to the already existing Fortum app, Husa gives the custo
 
 ### Home Status - In Real Time 
 
-The Fortum app already allows the customer to view his/her homes power consumption in real time. This information, however interesting isn't used by the majority of customers. Husa simplifies this information into two categories and informs the customer if his/her home is asleep or active.
+The Fortum app already allows the customer to view his/her homes power consumption in real time. This information, however interesting isn't used by the majority of customers. Husa simplifies this information into two categories and informs the customer if his/her home is asleep or active through real-time push notification directly in his/her phone.
 
 #### Asleep
 When next to no power-related activity is taking place, apart from indoor climate being maintained, your home status on the app will be showing the *Asleep* status.
