@@ -40,13 +40,17 @@ If the lights have been turned on and you are spending leisure time with the tv,
 
 ## Benefits (Why)
 
-1. Simplicity
-...The data is readily available.
-...The solution requires no additional installations beyond what is planned for Fortums customers.
-...The app-extensions are simple and targets all of Fortums customers.
+#### Simplicity
 
-2. Usefullness
-...Having an additional measure of control
+- The data is readily available.
+
+- The solution requires no additional installations beyond what is planned for Fortums customers.
+
+- The app-extensions are simple and targets all of Fortums customers.
+
+#### Usefullness
+
+- Having an additional measure of control
 
 ## Technological Solution
 
