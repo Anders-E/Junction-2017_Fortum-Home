@@ -15,7 +15,7 @@ This project aims to bring an entry level smart home feature to the customers of
 
 ## Problem Statement
 
-What new useful services can be created utilizing already existing data that are interseting to and applicable for Fortums large customer base?   
+What new useful services can be created utilizing already existing data that are interesting to and applicable for Fortums large customer base?   
 
 ## Husa
 
